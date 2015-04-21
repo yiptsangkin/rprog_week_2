@@ -1,3 +1,0 @@
-cachematrix<-function(){
-  print("hello")
-}
